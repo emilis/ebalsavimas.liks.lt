@@ -8,5 +8,41 @@ body {
     font-size: 16px;
     width: 35em;
 
-    margin: 40px auto;
+    margin: 22px auto 88px;
+    line-height: 22px;
+}
+
+h1 {
+    line-height: 44px;
+    margin: 22px 0;
+}
+
+p {
+    margin: 11px 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 22px 0;
+}
+
+td {
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+table.noborder {
+    margin: 0;
+}
+
+table.noborder > tbody > tr > td {
+    border: none;
+}
+
+table.dictionary > tbody > tr > td:first-child {
+    background-color: #eee;
+    font-weight: bold;
 }
