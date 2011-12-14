@@ -3,6 +3,14 @@ title: Internetinis balsavimas. Techninės galimybės ir iššūkiai
 layout: main
 ---
 
+<table class="dictionary"><tbody>
+<tr><td>Kas:</td><td>Seminaras &ndash; atvira diskusija</td></tr>
+<tr><td>Kada:</td><td>2011 m. gruodžio 22 d. (ketvirtadien) 17:00 val.</td></tr>
+<tr><td>Kur:</td><td>Šiaurės miestelio technologijų parke,<br>
+                    <a href="http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Galvyd%C5%BEio+g.+5,+Vilnius&aq=&sll=37.0625,-95.677068&sspn=31.701751,56.513672&ie=UTF8&hq=&hnear=5+J.+Galvyd%C5%BEio+gatv%C4%97,+%C5%BDirm%C5%ABnai,+Vilnius,+Vilniaus+Apskritis+08009,+Lithuania&z=14&ll=54.711076,25.294217">J. Galvydžio g. 5 / Žygio g. 96, Vilnius</a></td></tr>
+<tr><td>Dalyvauti:</td><td>Įėjimas laisvas, kviečiame registruotis <a href="https://www.facebook.com/events/230749130332297/">Facebook renginio puslapyje</a>.</td></tr>
+</tbody></table>
+
 [Lietuvos kompiuterininkų sąjunga](http://www.liks.lt/) (LIKS) kartu su [Vilniaus universiteto Matematikos ir informatikos institutu](http://www.mii.vu.lt/) (VU MII) ir bendradarbystės centru [„Hub Vilnius“](http://www.hubvilnius.lt/) š.m. <b>gruodžio 22 d. 17 val.</b> organizuoja atvirą diskusiją, kurios metu nagrinės balsavimo internetu saugumo ir kitus technologinius klausimus.
 
 „<em>Pastaruoju metu tiek žiniasklaidoje aptariant internetinio balsavimo perspektyvas, tiek LR Seime svarstant balsavimo internetu projektus neretai nuskamba tendencingi politizuoti pareiškimai, nepelnyti perdėti oponentų kaltinimai. Atsižvelgiant į tai, kad ir specialistų nuomonės šiuo aktualiu klausimu skiriasi, nusprendėme pasikviesti abi puses. Stengsimės surinkti aukščiausio lygio kompiuterių, tinklų saugumo, kriptografijos, IT rizikų specialistus ir su jais aptarsime įvairių technologinių sprendimų ypatybes ir iššūkius. Pabandysime atsakyti į klausimą ar balsavimas internetu gali būti saugus, kiek saugus ir kaip tą saugumą reikėtų užtikrinti.</em>“ - sakė LIKS prezidentas dr. Saulius Maskeliūnas.
