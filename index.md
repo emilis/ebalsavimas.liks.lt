@@ -11,7 +11,7 @@ layout: main
 <tr><td>Kviečiame:</td><td>Įėjimas laisvas, pasižymėkite <a href="https://www.facebook.com/events/230749130332297/" class="important">Facebook renginio puslapyje &raquo;</a></td></tr>
 </tbody></table>
 
-[Lietuvos kompiuterininkų sąjunga](http://www.liks.lt/) (LIKS) kartu su [Vilniaus universiteto Matematikos ir informatikos institutu](http://www.mii.vu.lt/) (VU MII) ir bendradarbystės centru [„Hub Vilnius“](http://www.hubvilnius.lt/) š.m. <b>gruodžio 22 d. 17 val.</b> organizuoja atvirą diskusiją, kurios metu nagrinės balsavimo internetu saugumo ir kitus technologinius klausimus.
+Šių metų gruodžio 22 d. vyks seminaras-diskusija balsavimo internetu saugumo ir kitais technologiniais klausimais. Renginį organizuoja [Lietuvos kompiuterininkų sąjunga](http://www.liks.lt/) (LIKS) kartu su [Vilniaus universiteto Matematikos ir informatikos institutu](http://www.mii.vu.lt/) (VU MII) ir bendradarbystės centru [„Hub Vilnius“](http://www.hubvilnius.lt/).
 
 „<em>Pastaruoju metu tiek žiniasklaidoje aptariant internetinio balsavimo perspektyvas, tiek LR Seime svarstant balsavimo internetu projektus neretai nuskamba tendencingi politizuoti pareiškimai, nepelnyti perdėti oponentų kaltinimai. Atsižvelgiant į tai, kad ir specialistų nuomonės šiuo aktualiu klausimu skiriasi, nusprendėme pasikviesti abi puses. Stengsimės surinkti aukščiausio lygio kompiuterių, tinklų saugumo, kriptografijos, IT rizikų specialistus ir su jais aptarsime įvairių technologinių sprendimų ypatybes ir iššūkius. Pabandysime atsakyti į klausimą ar balsavimas internetu gali būti saugus, kiek saugus ir kaip tą saugumą reikėtų užtikrinti.</em>“ - sakė LIKS prezidentas dr. Saulius Maskeliūnas.
 
