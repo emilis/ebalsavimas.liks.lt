@@ -12,6 +12,18 @@ body {
     line-height: 22px;
 }
 
+a {
+    color: #0167e5;
+}
+
+a:visited {
+    color: #5e322b;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 h1 {
     line-height: 44px;
     margin: 22px 0;
@@ -23,7 +35,7 @@ p {
 
 table {
     border-collapse: collapse;
-    margin: 22px 0;
+    margin: 11px 0;
 }
 
 td {
@@ -32,6 +44,16 @@ td {
     margin: 0;
     padding: 5px;
     border: 1px solid #ccc;
+}
+
+/* ----- */
+
+a.important {
+    font-weight: bold;
+    color: #fff;
+    background-color: #3B5998;
+    padding: 2px 5px;
+    border-radius: 2px;
 }
 
 table.noborder {
