@@ -8,8 +8,8 @@ layout: main
 <tr><td>Kada:</td><td>2011 m. gruodžio 22 d. (ketvirtadienį) 17:00 val.</td></tr>
 <tr><td>Kur:</td><td>Šiaurės miestelio technologijų parke,<br>
                     <a href="http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Galvyd%C5%BEio+g.+5,+Vilnius&aq=&sll=37.0625,-95.677068&sspn=31.701751,56.513672&ie=UTF8&hq=&hnear=5+J.+Galvyd%C5%BEio+gatv%C4%97,+%C5%BDirm%C5%ABnai,+Vilnius,+Vilniaus+Apskritis+08009,+Lithuania&z=14&ll=54.711076,25.294217">J. Galvydžio g. 5 / Žygio g. 96, Vilnius</a></td></tr>
-<tr><td>Kviečiame:</td><td>Įėjimas laisvas, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHNrZUpoQTlWMDhqb0JUVVptbUhoWlE6MQ" class="important">užsiregistruokite &raquo;</a>  <br />
-bei galite pasižymėti <a href="https://www.facebook.com/events/230749130332297/" class="important">Facebook renginio puslapyje </a></td></tr>
+<tr><td>Kviečiame:</td><td>Įėjimas laisvas, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHNrZUpoQTlWMDhqb0JUVVptbUhoWlE6MQ" class="important">prašome užsiregistruoti &raquo;</a>  <br />
+bei pasižymėti <a href="https://www.facebook.com/events/230749130332297/" class="important">Facebook renginio puslapyje </a></td></tr>
 </tbody></table>
 
 Šių metų gruodžio 22 d. vyks seminaras-diskusija balsavimo internetu saugumo ir kitais technologiniais klausimais. Renginį organizuoja [Lietuvos kompiuterininkų sąjunga](http://www.liks.lt/) (LIKS) kartu su [Vilniaus universiteto Matematikos ir informatikos institutu](http://www.mii.vu.lt/) (VU MII) ir bendradarbystės centru [„Hub Vilnius“](http://www.hubvilnius.lt/).
