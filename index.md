@@ -10,6 +10,18 @@ layout: main
                     <a href="http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Galvyd%C5%BEio+g.+5,+Vilnius&aq=&sll=37.0625,-95.677068&sspn=31.701751,56.513672&ie=UTF8&hq=&hnear=5+J.+Galvyd%C5%BEio+gatv%C4%97,+%C5%BDirm%C5%ABnai,+Vilnius,+Vilniaus+Apskritis+08009,+Lithuania&z=14&ll=54.711076,25.294217">J. Galvydžio g. 5 / Žygio g. 96, Vilnius</a></td></tr>
 <tr><td>Kviečiame:</td><td>Įėjimas laisvas, <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHNrZUpoQTlWMDhqb0JUVVptbUhoWlE6MQ" class="important">prašome užsiregistruoti &raquo;</a>
 bei pasižymėti <a href="https://www.facebook.com/events/230749130332297/">Facebook renginio puslapyje &raquo;</a>.</td></tr>
+<tr><td>Tyrimai apie e-balsavimą:</td><td><ul>
+<li><a href="http://www.e-demokratija.lt/lt/tekstai/naujienos?id=5">Elektroninio balsavimo galimybiu studija, Lietuva, 2008</a></li> 
+<!-- <li><a href="http://servesecurityreport.org/">A Security Analysis of the Secure Electronic
+Registration and Voting Experiment (SERVE)</a></li> -->
+<li><a href="http://www.eac.gov/blogs/a_survey_of_internet_voting/"></a>A Survey of Internet Voting, JAV</li> 
+<li>Apie Estijos internetinį balsavimą<br />
+<a href="http://blog.verifiedvoting.org/2011/09/03/1435">Report on the Estonian Internet Voting System, 2011</a> 
+<br/><a href="http://vvk.ee/voting-methods-in-estonia/engindex/">Internet Voting in Estonia</a>
+<br/><a href="http://www.osce.org/odihr/elections/estonia/75382">Parliamentary Elections, 6 March 2011</a>
+</li> 
+<!-- <li><a href="http://www.balsavimas.lt/nuorodos">daugiau nuorodų</a></li>  -->
+</ul></td></tr>
 </tbody></table>
 
 Šių metų gruodžio 22 d. vyks seminaras-diskusija balsavimo internetu saugumo ir kitais technologiniais klausimais. Renginį organizuoja [Lietuvos kompiuterininkų sąjunga](http://www.liks.lt/) (LIKS) kartu su [Vilniaus universiteto Matematikos ir informatikos institutu](http://www.mii.vu.lt/) (VU MII) ir bendradarbystės centru [„Hub Vilnius“](http://www.hubvilnius.lt/).
