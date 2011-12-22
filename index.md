@@ -14,12 +14,14 @@ bei pasižymėti <a href="https://www.facebook.com/events/230749130332297/">Face
 <li><a href="http://www.e-demokratija.lt/lt/tekstai/naujienos?id=5">Elektroninio balsavimo galimybiu studija, Lietuva, 2008</a></li> 
 <!-- <li><a href="http://servesecurityreport.org/">A Security Analysis of the Secure Electronic
 Registration and Voting Experiment (SERVE)</a></li> -->
-<li><a href="http://www.eac.gov/blogs/a_survey_of_internet_voting/"></a>A Survey of Internet Voting, JAV</li> 
-<li>Apie Estijos internetinį balsavimą<br />
-<a href="http://blog.verifiedvoting.org/2011/09/03/1435">Report on the Estonian Internet Voting System, 2011</a> 
-<br/><a href="http://vvk.ee/voting-methods-in-estonia/engindex/">Internet Voting in Estonia</a>
-<br/><a href="http://www.osce.org/odihr/elections/estonia/75382">Parliamentary Elections, 6 March 2011</a>
-</li> 
+<li><a href="http://www.eac.gov/blogs/a_survey_of_internet_voting/">A Survey of Internet Voting, JAV</a></li> 
+<li>Apie Estijos internetinį balsavimą:</li>
+<ul>
+<li><a href="http://vvk.ee/voting-methods-in-estonia/engindex/">Internet Voting in Estonia</a></li>
+<li><a href="http://www.osce.org/odihr/elections/estonia/75382">Parliamentary Elections, 6 March 2011</a></li>
+<li><a href="http://blog.verifiedvoting.org/2011/09/03/1435">Report on the Estonian Internet Voting System, 2011</a></li>
+</ul> 
+<li><a href="/pasaulyje.html">Internetinio balsavimo projektų pasaulyje apžvalga</a></li>
 <!-- <li><a href="http://www.balsavimas.lt/nuorodos">daugiau nuorodų</a></li>  -->
 </ul></td></tr>
 </tbody></table>
